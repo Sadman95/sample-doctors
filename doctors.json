@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Hero Alam",
+        "email": "hero@alam.com"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Solaiman",
+        "email": "solaiman@poipoi.com"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Sakib Khan",
+        "email": "shakib@nayok.com"
+    }
+]
